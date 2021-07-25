@@ -115,6 +115,11 @@ form{
     font-weight: bold;
 }
 
+#bio{
+    text-align: center;
+    font-size:14px;
+}
+
 .stats{
     display: flex;
     justify-content: center;
